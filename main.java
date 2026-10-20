@@ -1,1 +1,3 @@
-Forking test
+public class main {
+  pass
+}
