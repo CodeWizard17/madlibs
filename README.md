@@ -1,7 +1,7 @@
 # madlibs
 Group members:
 Advay Bansal,
-Bradley Zhong,
+Bradley Zhong(negligent evildoer),
 Evan Spirin,
 Rithvik Jangam
 Gursimran Sachdeva
